@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\marce\OneDrive\Desktop\udemy_courses\deep_learning\venv_dl"
+VIRTUAL_ENV="D:\udemy_courses\udemy_deep_learning\venv_dl"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

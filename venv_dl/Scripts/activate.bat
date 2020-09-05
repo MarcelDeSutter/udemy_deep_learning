@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\marce\OneDrive\Desktop\udemy_courses\deep_learning\venv_dl
+set VIRTUAL_ENV=D:\udemy_courses\udemy_deep_learning\venv_dl
 
 if not defined PROMPT set PROMPT=$P$G
 
